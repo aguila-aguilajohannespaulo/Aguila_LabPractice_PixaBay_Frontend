@@ -1,0 +1,6 @@
+# Ignore local secrets
+config.js
+
+# OS files
+.DS_Store
+Thumbs.db
