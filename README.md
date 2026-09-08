@@ -1,10 +1,10 @@
 # Introduction
 Welcome to the Query Search Wiki
 Layout of the Files being two javascripts, main html, css folder with the css file
-> Javascript 1 config.js: Make use of this as your way to input your personal API key
-> Javascript 2 app.js: Main usage for the query, using Pixabay to fetch
-> Main HTML index.html: Main website layout
-> CSS Folder/CSS File project.css: Re-used CSS layout hence why its named project but it supports the design for the HTML
+- Javascript 1 config.js: Make use of this as your way to input your personal API key
+- Javascript 2 app.js: Main usage for the query, using Pixabay to fetch
+- Main HTML index.html: Main website layout
+- CSS Folder/CSS File project.css: Re-used CSS layout hence why its named project but it supports the design for the HTML
 # Prerequisites
 1. Use the same Pixabay account and API key you generated in the previous lab OR a rotated new key.
 2. Have your previous repository open as a reference for the exact parameters used in each challenge.
